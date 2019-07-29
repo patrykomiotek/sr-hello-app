@@ -1,6 +1,6 @@
 {
   "name": "sr-hello-app",
-  "homepage": "https://patrykomiotek.github.io/sr-hello-app",
+  "homepage": "https://patrykomiotek.github.io/sr-hello-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
