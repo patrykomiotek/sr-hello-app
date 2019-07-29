@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sr-hello-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/sr-hello-app/static/js/main.70062a4b.chunk.js",
+    "main.js.map": "/sr-hello-app/static/js/main.70062a4b.chunk.js.map",
+    "runtime~main.js": "/sr-hello-app/static/js/runtime~main.4de95b12.js",
+    "runtime~main.js.map": "/sr-hello-app/static/js/runtime~main.4de95b12.js.map",
+    "static/js/2.b41502e9.chunk.js": "/sr-hello-app/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/sr-hello-app/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/sr-hello-app/index.html",
+    "precache-manifest.f1e7556a7d8ccfacdbbd06d6a32bed81.js": "/sr-hello-app/precache-manifest.f1e7556a7d8ccfacdbbd06d6a32bed81.js",
+    "service-worker.js": "/sr-hello-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/sr-hello-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/sr-hello-app/static/media/logo.5d5d9eef.svg"
+  }
+}
